@@ -5,7 +5,7 @@ CroP is a data visualization tool that utilizes coordinated multiple views to po
 
 CroP is currently available as an executable jar file, along with sample datasets.
 
-
+---
 
 Sample Dataset Setup:
 
