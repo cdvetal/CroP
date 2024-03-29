@@ -9,6 +9,6 @@ CroP is currently available as an executable jar file, along with sample dataset
 
 Sample Dataset Setup:
 
-    The “HIV-1 Infection.txt" contains a PPI network embedded with gene expression time-series of the HIV-1 infection;
-    After loading CroP, in the menu under “Data Management” select “Load All” and then the “HIV-1 Infection.txt” file;
-    Visualizations can be dragged with the left mouse button and zoomed with the scroll wheel.
+    - The “HIV-1 Infection.txt" contains a PPI network embedded with gene expression time-series of the HIV-1 infection;
+    - After loading CroP, in the menu under “Data Management” select “Load All” and then the “HIV-1 Infection.txt” file;
+    - Visualizations can be dragged with the left mouse button and zoomed with the scroll wheel.
