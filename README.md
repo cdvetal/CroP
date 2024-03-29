@@ -11,10 +11,10 @@ One file contains a workspace that has already been prepared for a demonstration
 
 Quick Sample Dataset Setup:
 - The “HIV-1 Infection.txt" contains a PPI network embedded with gene expression time-series of the HIV-1 infection;
-- After loading CroP, in the menu under “Data Management” select “Load All” and then the “HIV-1 Infection.txt” file;
+- After loading CroP, in the menu under “Data Management” select “Load All” and then the “HIV-1 Infection.txt” file.
 
 ---
 
 CSV Dataset Setup:
-- After loading CroP, under "Data Management" select "Import Network" -> "Network File (.csv)", then select the file obtained from "CSV/human_ppi_network.csv".
+- After loading CroP, under "Data Management" select "Import Network" -> "Network File (.csv)", then select the file obtained from "CSV/human_ppi_network.csv";
 - Then, under "Data Management" select "Import Time-Series" -> "Time-Series File (.csv)", then select the file obtained from "CSV/hiv1-gene-expression-time-series.csv".
