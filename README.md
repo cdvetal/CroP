@@ -6,7 +6,8 @@ CroP is a data visualization tool that utilizes coordinated multiple views to po
 CroP is currently available as an executable jar file, along with sample datasets.
 
 
-Sample Dataset Setup
+
+Sample Dataset Setup:
 
     The “HIV-1 Infection.txt" contains a PPI network embedded with gene expression time-series of the HIV-1 infection;
     After loading CroP, in the menu under “Data Management” select “Load All” and then the “HIV-1 Infection.txt” file;
